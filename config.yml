@@ -1,0 +1,129 @@
+baseURL: "https://rubypopolsku.pl"
+title: Ruby po polsku
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Ruby po polsku"
+    icon: /media/ruby+icon-1320195548836502503.jpg
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Ruby po polsku
+    subtitle: "Cześć nazywam się Tobiasz Waszak i jestem ruby developerem. Zdecydowałem się nagrywać w języku polskim ponieważ tego typu nagrań jest bardzo mało. Z tego samego powodu większość moich filmów (czy tekstów, bo spora część dostępna jest w formie tekstowej na stronie) skierowana jest do osób dopiero zaczynająca swoją przygodę z programowaniem. Ale być może osoby bardziej doświadczone znajdą tu coś dla siebie.
+Jeżeli natraficie na jakieś trudności, coś jest dla was niejasne a może po prostu macie jakieś sugestie, zachęcam do kontaktu. Możecie zostawiać komentarze pod każdym filmem, albo możecie do mnie wysłać maila kontakt@rubypopolsku.pl. Postaram się odpowiedzieć na każdy z nich."
+    imageUrl: "/media/ruby+icon-1320195548836502503.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Ruby po polsku
+    buttons:
+
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: youtube
+      url: "https://youtube.com/rubypopolsku"
+    - name: buymeacoffee
+      url: "https://www.buymeacoffee.com/rubypopolsku/"
+    - name: github
+      url: "https://github.com/rubypopolsku"
+    - name: twitter
+      url: "https://twitter.com/ruby_po_polsku"
+    - name: email
+      url: "mailto:kontakt@rubypopolsku.pl"
+
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: posts
+      name: Posty
+      url: https://www.buymeacoffee.com/rubypopolsku/posts
+      weight: 10
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
