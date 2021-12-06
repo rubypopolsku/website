@@ -132,7 +132,7 @@ firebase:
   credentials:
     type: <%= ENV["gsc_type"] %>
     project_id: <%= ENV["gsc_project_id"] %>
-    private_key_id: <%= ENV["gsc_type"] %>
+    private_key_id: <%= ENV["private_key_id"] %>
     private_key: <%= ENV["gsc_private_key"] %>
     client_email: <%= ENV["gsc_client_email"] %>
     client_id: <%= ENV["gsc_client_id"] %>
