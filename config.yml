@@ -74,8 +74,6 @@ Jeżeli natraficie na jakieś trudności, coś jest dla was niejasne a może po 
   socialIcons:
     - name: youtube
       url: "https://youtube.com/rubypopolsku"
-    - name: buymeacoffee
-      url: "https://www.buymeacoffee.com/rubypopolsku/"
     - name: github
       url: "https://github.com/rubypopolsku"
     - name: twitter
@@ -116,7 +114,7 @@ menu:
   main:
     - identifier: posts
       name: Posty
-      url: https://www.buymeacoffee.com/rubypopolsku/posts
+      url: /posts
       weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
