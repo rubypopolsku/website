@@ -116,6 +116,10 @@ menu:
       name: Posty
       url: /posts
       weight: 10
+    - identifier: zanim_zaczniesz
+      name: Zanim zaczniesz
+      url: /zanim_zaczniesz
+      weight: 15
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
