@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ruby on Ruby po polsku</title>
+    <link>https://rubypopolsku.pl/categories/ruby/</link>
+    <description>Recent content in ruby on Ruby po polsku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Apr 2021 08:31:56 +0100</lastBuildDate><atom:link href="https://rubypopolsku.pl/categories/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proste API w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-04-30-proste-api-w-ruby-on-rails/</link>
+      <pubDate>Fri, 30 Apr 2021 08:31:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-04-30-proste-api-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/EoBC2mY0aDo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;W czasach rozbudowanych frameworków frontendowych widoki renderowane po stronie Ruby on Rails coraz cześciej nie jest to to czego oczekujemy od backendowej aplikacji. W wielu przypadkach nasza aplikacja ma wystawiać tylko API. Zdarzają się też przypadki gdy nawet gdy widoki są renderowane po stronie railsów to potrzebujemy zrobić aplikacje mobilną. Wtedy również przyda nam się API. Ale nie tylko, może potrzebujemy go do komunikacji z innymi aplikacjami pisanymi przez zewnętrznych developerów.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Import oraz export plików excela w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-04-27-import-oraz-export-plik%C3%B3w-excela-w-ruby-on-rails/</link>
+      <pubDate>Tue, 27 Apr 2021 08:31:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-04-27-import-oraz-export-plik%C3%B3w-excela-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/qX2n9Vva-1s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Gdy zaczynacie swoją przygodę z programowaniem wydaje wam się, że na wszystko można zrobić aplikacje, w końcu to tylko kolejna warstwa nad bazą danych. W pewnym momencie dochodzi się jednak do wniosku, że bez sensu jest pisać nową aplikacje skoro to samo można zrobić w excelu.&lt;/p&gt;
+&lt;p&gt;Excel to potężne narzędzie i raczej prędzej niż później będzie potrzebować importu lub exportu danych do tego programu. Biznes wymaga excela. Albo chociaż pliku CSV.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Upload plików w Ruby on Rails - Active Storage - Firebase</title>
+      <link>https://rubypopolsku.pl/posts/2021-04-23-upload-plikow-w-ruby-on-rails---active-storage---firebase/</link>
+      <pubDate>Fri, 23 Apr 2021 08:31:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-04-23-upload-plikow-w-ruby-on-rails---active-storage---firebase/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/SU1rH5_Zi-A&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Upload plików to teoretycznie prosta sprawa, wystarczy input w htmlu.
+Ale musimy te pliki gdzieś zapisać. W ruby on rails na pomoc przychodzi Active Storage. Dzięki niemu możemy dołączać pliki do naszych obiektów active recorda. Pliki te możemy przetrzymywać w chmurze np amazon s3 czy azure storage od microsoftu. Korzystając z Active Storage. Po przesłaniu pliku graficznego możemy konwertować je do innych formatów. Ale też robić dużo innych czynności nie tylko związanych z obrazkami.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Administrate panel do zarządzania danymi w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-04-19-administrate-panel-do-zarzadzania-danymi-w-ruby-on-rails/</link>
+      <pubDate>Mon, 19 Apr 2021 08:31:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-04-19-administrate-panel-do-zarzadzania-danymi-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Fk_S6hTI0Vw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Czasami, szczególnie gdy nasza aplikacja to tylko API dla jakiegoś frontendu potrzebujemy móc tymi danymi zarządzać. Np dodać nową kategorie. W takim celu nie ma sensu wymyślać koła na nowo, a już szczególnie gdy przygotowujemy tylko MVP. Możemy użyć gotowego panelu administracyjnego.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Monitorowanie błędów przy pomocy sentry w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-04-15-monitorowanie-bledow-przy-pomocy-sentry-w-ruby-on-rails/</link>
+      <pubDate>Thu, 15 Apr 2021 08:31:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-04-15-monitorowanie-bledow-przy-pomocy-sentry-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hHUz9WnKo60&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Mimo naszych największych starań nie jesteśmy w stanie sprawdzić czy przewidzieć wszystkiego. To, że coś działa lokalnie nie znaczy, że będzie działać na produkcji. Za chwilę przyjdzie użytkownik który będzie używał tego ficzera w sposób zupełnie odmienny od tego który planowaliśmy. Upload plików excela? spoko ale user wrzuca dokument worda. Po co? Pewnie tam też ma tabelkę.&lt;/p&gt;
+&lt;p&gt;Dlatego bardzo ważnym jest monitorowanie tych błędów. Tak by o nich wiedzieć.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sinatra.rb - prosta todo aplikacja w Ruby</title>
+      <link>https://rubypopolsku.pl/posts/2021-04-06-sinatra-rb---prosta-todo-aplikacja-w-ruby/</link>
+      <pubDate>Tue, 06 Apr 2021 08:31:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-04-06-sinatra-rb---prosta-todo-aplikacja-w-ruby/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/_tBuaLiDO7A&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cześć,
+w dzisiejszym odcinku chciałbym pokazać wam jak zbudować bardzo prostą aplikacje bez użycia Ruby on Rails.&lt;/p&gt;
+&lt;p&gt;Do tego celu użyjemy gema sinatra&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://sinatrarb.com/&#34;&gt;http://sinatrarb.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;nie jest to żaden framework a biblioteka która pozwala szybko tworzyć aplikacje internetowe w języku Ruby&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wypełnianie bazy danych danymi. Seeds w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-03-27-wypelnianie-bazy-danych-danymi.-seeds-w-ruby-on-rails/</link>
+      <pubDate>Sat, 27 Mar 2021 20:31:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-03-27-wypelnianie-bazy-danych-danymi.-seeds-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tMw3AlUxhe4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cześć
+w dzisiejszym odcinku chciałbym pokazać wam, jak zapełnić naszą developerską bazę danymi. Jest za to odpowiedzialny task db:seed i pliks seeds.rb.&lt;/p&gt;
+&lt;p&gt;Jest to bardzo przydatne narzędzie. Gdy pracujemy w kilka osób i po instalacji aplikacji chcemy by jakieś dane w niej były. Szczególnie gdy są to bardziej złożone dane.
+Możemy mieć użytkowników z różnymi rolami, jakieś domyślne ustawienia, treści, itp&lt;/p&gt;
+&lt;p&gt;Z punktu widzenia bloga, to może być administrator, czytelnik. Kilka postów i kilka komentarzy do tego.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Maile w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-03-09-maile-w-ruby-on-rails/</link>
+      <pubDate>Tue, 09 Mar 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-03-09-maile-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/LRDhYsMAa_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cześć&lt;/p&gt;
+&lt;p&gt;w dzisiejszym odcinku chciałbym pokazać wam jak wysyłać maile. W poprzednim filmie pokazałem wam jak przygotować formularz. Więc dzisiaj chciałbym pokazać wam jak rozszerzyć jego funkcjonalność&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Worker - Background Job - Active Job - Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-03-17-worker---background-job---active-job---ruby-on-rails/</link>
+      <pubDate>Tue, 09 Mar 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-03-17-worker---background-job---active-job---ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3kY2SE_Xfj8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Hej&lt;/p&gt;
+&lt;p&gt;W dzisiejszym odcinku chciałbym poruszyć niezwykle istotny temat jakim są background joby. W poprzednim odcinku pokazywałem wam jak wysyłać maile, ale w tamtym przypadku musimy czekać na zakończenie wysyłania by dostać odpowiedź z serwera. Dodatkowo do maila może być generowany jakiś duży załącznik więc lepiej by takie rzeczy działy się w tle.&lt;/p&gt;
+&lt;p&gt;W tytule jest jeszcze jedno hasło, active job. Kolejny raz Railsy mają już gotowe rozwiązanie na popularny problem. Active Job nie tylko odpowiada za pracę w tlę ale też pracę kolejek. Można też ustawić wykonanie workera o danym czasie. Np powiadomienia mailowe o północy.&lt;/p&gt;
+&lt;p&gt;Ale tak jak w przypadku ActiveRecorda gdzie ten jest warstwą abstrakcji na bazie danych tak tutaj pod spodem musi działać jakiś inny gem np sidekiq Delayed Job albo Resque.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Formularze w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-03-03-formularze-w-ruby-on-rails/</link>
+      <pubDate>Wed, 03 Mar 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-03-03-formularze-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yPRRTd-EtXc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cześć&lt;/p&gt;
+&lt;p&gt;w dzisiejszym odcinku chciałbym pokazać wam jak zbudować prosty formularz do zapisywania danych w ruby on rails.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transakcje w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-03-01-transakcje-w-ruby-on-rails/</link>
+      <pubDate>Mon, 01 Mar 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-03-01-transakcje-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/VkeHuYM6lJ8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cześć&lt;/p&gt;
+&lt;p&gt;w dzisiejszym odcinku chciałbym opowiedzieć wam o transakcjach.  Transakcja nie jest to termin dotyczący ruby on rails bezpośrednio tylko bazy danych. Ale z racji tego, że nasza praca to głównie praca z bazą danych jest to temat bardzo istotny&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Budowanie zapytań (query) w Ruby on Rails - Active Record podstawy</title>
+      <link>https://rubypopolsku.pl/posts/2021-02-18-budowanie-zapytan-query-w-ruby-on-rails---active-record-podstawy/</link>
+      <pubDate>Thu, 18 Feb 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-02-18-budowanie-zapytan-query-w-ruby-on-rails---active-record-podstawy/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/NvuSk--uvFo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cześć&lt;/p&gt;
+&lt;p&gt;w dzisiejszym odcinku chciałbym wam opowiedzieć o Active Recordzie. W jednym z poprzednich odcinków opowiadałem już o jednym z elementów Active Recorda - walidacjach. Dzisiaj chciałbym pokazać wam jak budować zapytania.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sprawdzanie kodu w ruby - linter - Rubocop</title>
+      <link>https://rubypopolsku.pl/posts/2021-02-13-sprawdzanie-kodu-w-ruby---linter---rubocop/</link>
+      <pubDate>Sat, 13 Feb 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-02-13-sprawdzanie-kodu-w-ruby---linter---rubocop/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/_PUtUkw3JWo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;cześć&lt;/p&gt;
+&lt;p&gt;w dzisiejszym odcinku chciałbym pokazać wam jak sprawdzać składnie naszego kodu.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Strony statyczne w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-02-07-strony-statyczne-w-ruby-on-rails/</link>
+      <pubDate>Sun, 07 Feb 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-02-07-strony-statyczne-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WgyvlLxC9dU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;W dzisiejszym odcinku chciałbym pokazać wam jak budować statyczne strony w ruby on rails. Strona statyczna to taka, która zawiera w sobie sam html ewentualnie Javascript. Nie wykorzystuje w ogóle języka ruby.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Walidacje modelu w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-02-04-walidacje-modelu-w-ruby-on-rails/</link>
+      <pubDate>Thu, 04 Feb 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-02-04-walidacje-modelu-w-ruby-on-rails/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZgXWRZQ-J6w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cześć
+w dzisiejszym odcinku chciałbym przedstawić wam temat walidacji. A konkretnie pokazać wam jak dodać walidacje do modelu. Walidacja ma na celu sprawdzenie stanu obiektu zanim trafi on do bazy. Ruby on Rails używa domyślnie Active Record Validations. Po za nimi istnieje kilka innych rozwiązań na walidacje, możemy też oczywiście zrobić coś własnego.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Przyjazne adresy URL w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-01-31-przyjazne-adresy-url/</link>
+      <pubDate>Sun, 31 Jan 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-01-31-przyjazne-adresy-url/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/n5im8F5RB4Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cześć!&lt;/p&gt;
+&lt;p&gt;w tym odcinku chciałbym pokazać wam jak dodać tak zwany &amp;ldquo;slug&amp;rdquo; do naszego adresu url. W tej chwili jeżeli popatrzymy na nasz adres url zawiera on id z bazy. Nie jest to rozwiązanie przyjazne użytkownikom oraz wyszukiwarkom. Slug dodany do naszego modelu nada każdemu elementowi łatwy do odczytania identyfikator.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# tradycyjny url&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;http://example.com/states/4323454
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# po dodaniu suga&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;http://example.com/states/washington
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>UUID zamiast ID w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-01-27-uuid-zamiast-id-w-ruby-on-rails/</link>
+      <pubDate>Wed, 27 Jan 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-01-27-uuid-zamiast-id-w-ruby-on-rails/</guid>
+      <description>W tym odcinku chciałbym pokazać wam jak i dlaczego używać uuid zamiast id jako klucza podstawowego w Ruby on Rails.
+Na początek może czym jest uuid - uniwersalny, unikalny identyfikator. id domyślnie jest kolejną liczbą w bazie, uuid natomiast jest stringiem
+1 vs ccbb63c0-a8cd-47b7-8445-5d85e9c80977
+tutaj widzicie dwa przykłady, pierwszy to id, drugie to właśnie uuid.
+ok to tyle w teorii, po co używać uuid?
+dla bezpieczeństwa
+np link do notatek z tego odcinka, każdy kto ma link może to otworzyć bez logowania, ale w gruncie rzeczy nie każdy powinien mieć w to wgląd</description>
+    </item>
+    
+    <item>
+      <title>Paginacja w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-01-24-paginacja-w-ruby-on-rails/</link>
+      <pubDate>Sun, 24 Jan 2021 19:39:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-01-24-paginacja-w-ruby-on-rails/</guid>
+      <description>W tym odcinku chciałbym pokazać wam jak dodać paginacje do naszego modelu.
+Oto przykładowa lista postów.
+Naszym celem jest ograniczenie ilości postów do 5 na stronę i przełączanie się między stronami.
+W Ruby on Rails dostępnych jest kilka gemów do paginacji. Najpopularniejsze z nich to Kaminari i will paginate. Oba te gemy są regularnie aktualizowane. A wybór między nimi nie jest aż tak istotny. Oba robią to co mają robić.</description>
+    </item>
+    
+    <item>
+      <title>Nowa aplikacja w Ruby on Rails</title>
+      <link>https://rubypopolsku.pl/posts/2021-01-24-nowa-aplikacja-w-ruby-on-rails/</link>
+      <pubDate>Sun, 24 Jan 2021 19:38:56 +0100</pubDate>
+      
+      <guid>https://rubypopolsku.pl/posts/2021-01-24-nowa-aplikacja-w-ruby-on-rails/</guid>
+      <description>W tym odcinku chciałbym pokazać wam jak łatwo i szybko można stworzyć aplikacje w ruby on rails
+Nasz Projekt to będzie podstawowy blog który pozwoli nam stworzyć, edytować i usuwać posty. Więc zaczynajmy
+rails new blog
+Wchodzimy do katalogu z aplikacja
+cd blog
+Otwórzmy kod naszej aplikacji w edytorze
+Ruby on Rails domyślnie używa sqlite, i tak też tu zostanie, ale w większości przypadków wypadało by to zmienić na inną bazę, np postgres</description>
+    </item>
+    
+  </channel>
+</rss>

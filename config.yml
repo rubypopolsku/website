@@ -50,7 +50,7 @@ params:
 
   label:
     text: "Ruby po polsku"
-    icon: /media/ruby+icon-1320195548836502503.jpg
+    icon: /media/rubyBezTekstu.jpg
     iconHeight: 35
 
   # profile-mode
@@ -59,7 +59,7 @@ params:
     title: Ruby po polsku
     subtitle: "Cześć nazywam się Tobiasz Waszak i jestem ruby developerem. Zdecydowałem się nagrywać w języku polskim ponieważ tego typu nagrań jest bardzo mało. Z tego samego powodu większość moich filmów (czy tekstów, bo spora część dostępna jest w formie tekstowej na stronie) skierowana jest do osób dopiero zaczynająca swoją przygodę z programowaniem. Ale być może osoby bardziej doświadczone znajdą tu coś dla siebie.
 Jeżeli natraficie na jakieś trudności, coś jest dla was niejasne a może po prostu macie jakieś sugestie, zachęcam do kontaktu. Możecie zostawiać komentarze pod każdym filmem, albo możecie do mnie wysłać maila kontakt@rubypopolsku.pl. Postaram się odpowiedzieć na każdy z nich."
-    imageUrl: "/media/ruby+icon-1320195548836502503.jpg"
+    imageUrl: "/media/rubyBezTekstu.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Ruby po polsku

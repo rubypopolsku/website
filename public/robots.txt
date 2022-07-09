@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rubypopolsku.pl/sitemap.xml
